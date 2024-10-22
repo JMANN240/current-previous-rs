@@ -4,5 +4,6 @@ description = "Easy tracking of current and previous values!"
 license = "MIT OR Apache-2.0"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/JMANN240/current-previous-rs"
 
 [dependencies]
