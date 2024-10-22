@@ -7,3 +7,5 @@ edition = "2021"
 repository = "https://github.com/JMANN240/current-previous-rs"
 
 [dependencies]
+
+[lib]
